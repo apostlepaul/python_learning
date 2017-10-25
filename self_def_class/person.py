@@ -14,4 +14,4 @@ class Person():
         return 0
 
     def __contains__(self):
-        return True 
+        return not True 
